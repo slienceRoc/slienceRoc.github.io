@@ -3,10 +3,10 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: sliencRoc的小窝
+title: slienceRoc的小窝
 subtitle: 学习生活点滴
 description: 记录工作上,生活中的一些事，一些情
-author: sliencRoc
+author: slienceRoc
 language: zh-Hans
 timezone:
 
@@ -16,7 +16,7 @@ url: http://slienceroc.github.io
 root: /archives/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
-
+avatar: http://tp2.sinaimg.cn/2217953577/180/5707530230/1
 # Directory
 source_dir: source
 public_dir: public
