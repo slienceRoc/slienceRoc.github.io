@@ -4,16 +4,16 @@
 
 # Site
 title: sliencRoc的小窝
-subtitle:	
-description:
+subtitle: 学习生活点滴
+description: 记录工作上,生活中的一些事，一些情
 author: sliencRoc
 language: zh-Hans
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
-root: /
+url: http://slienceroc.github.io
+root: /archives/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 
